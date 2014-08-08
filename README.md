@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mgomes/mongoid-rspec.svg?branch=master)](https://travis-ci.org/mgomes/mongoid-rspec)
 
-RSpec matchers for Mongoid 4.x with support for RSpec 3.x.
+RSpec matchers for Mongoid 4.x with support for RSpec 3.x. Examples below use the latest RSpec 3.0 syntax.
 
 For Mongoid 2.x, use [mongoid-rspec 1.4.5](http://rubygems.org/gems/mongoid-rspec/versions/1.4.5)
 For Mongoid 3.x, use [mongoid-rspec 1.11.0](http://rubygems.org/gems/mongoid-rspec/versions/1.11.0)
