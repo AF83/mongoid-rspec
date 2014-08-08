@@ -27,7 +27,7 @@ module Mongoid
         "Expected #{expectation} (#{@problem})"
       end
 
-      def negative_failure_message
+      def failure_message_when_negated
         "Did not expect #{expectation}"
       end
 
