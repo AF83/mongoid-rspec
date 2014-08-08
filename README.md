@@ -1,6 +1,6 @@
 # mongoid-rspec
 
-[![Build Status](https://secure.travis-ci.org/mgomes/mongoid-rspec.png?branch=master)](https://travis-ci.org/mgomes/mongoid-rspec)
+[![Build Status](https://travis-ci.org/mgomes/mongoid-rspec.svg?branch=master)](https://travis-ci.org/mgomes/mongoid-rspec)
 
 RSpec matchers for Mongoid 4.x with support for RSpec 3.x.
 
