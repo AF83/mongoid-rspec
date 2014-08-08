@@ -11,9 +11,11 @@ For Mongoid 3.x, use [mongoid-rspec 1.11.0](http://rubygems.org/gems/mongoid-rsp
 
 Add to your Gemfile
 
+```ruby
   gem 'mongoid-rspec', github: 'mgomes/mongoid-rspec'
+```
 
-Drop in existing or dedicated support file in spec/support (spec/support/mongoid.rb)
+Drop in existing or dedicated support file in spec/support (spec/spec_helper.rb)
 
 ```ruby
 RSpec.configure do |config|
