@@ -1,6 +1,6 @@
 # mongoid-rspec
 
-[![Build Status](https://travis-ci.org/mgomes/mongoid-rspec.svg?branch=master)](https://travis-ci.org/mgomes/mongoid-rspec)
+[![Build Status](https://travis-ci.org/gurix/mongoid-rspec.svg?branch=master)](https://travis-ci.org/gurix/mongoid-rspec)
 
 RSpec matchers for Mongoid 4.x with support for RSpec 3.x. Examples below use the latest RSpec 3.0 syntax.
 
@@ -12,7 +12,7 @@ For Mongoid 3.x, use [mongoid-rspec 1.11.0](http://rubygems.org/gems/mongoid-rsp
 Add to your Gemfile
 
 ```ruby
-  gem 'mongoid-rspec', github: 'mgomes/mongoid-rspec'
+  gem 'mongoid-rspec', github: 'gurix/mongoid-rspec'
 ```
 
 Drop in existing or dedicated support file in spec/support (spec/spec_helper.rb)
